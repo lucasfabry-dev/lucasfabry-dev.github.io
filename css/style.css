@@ -299,7 +299,6 @@ section {
     padding-left: 20px;
 }
 
-
 /* Projets */
 .project-card {
     overflow: hidden;
@@ -440,10 +439,15 @@ footer {
 
 /* Responsive */
 @media (max-width: 768px) {
+    #hero {
+        padding-top: 8rem;
+    }
+    
     .profile-photo img {
         width: 120px;
         height: 120px;
     }
+    
     .nav-links {
         display: none;
         position: absolute;
@@ -498,13 +502,4 @@ footer {
 .fade-in.visible {
     opacity: 1;
     transform: translateY(0);
-
 }
-
-
-
-
-
-
-
-
