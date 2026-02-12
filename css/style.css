@@ -441,7 +441,7 @@ footer {
 /* Responsive */
 @media (max-width: 768px) {
     #hero {
-        padding-top: 10rem;
+        padding-top: 14rem;
     }
 
     .profile-photo img {
@@ -504,4 +504,5 @@ footer {
     transform: translateY(0);
 
 }
+
 
