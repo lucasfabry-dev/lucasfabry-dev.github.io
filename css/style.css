@@ -310,7 +310,7 @@ section {
     background: linear-gradient(45deg, var(--primary), var(--secondary));
 }
 
-#title-project{
+.title-project {
     color: #ffffff;
 }
 
@@ -500,6 +500,7 @@ footer {
     transform: translateY(0);
 
 }
+
 
 
 
