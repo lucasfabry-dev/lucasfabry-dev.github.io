@@ -310,7 +310,7 @@ section {
 }
 
 .project-header .title-project {
-    color: #ffffff !important;
+    color: #ffffff;
 }
 
 .project-body {
@@ -503,4 +503,5 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+
 
