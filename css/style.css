@@ -309,8 +309,8 @@ section {
     background: linear-gradient(45deg, var(--primary), var(--secondary));
 }
 
-.title-project {
-    color: #ffffff;
+.project-header .title-project {
+    color: #ffffff !important;
 }
 
 .project-body {
@@ -503,3 +503,4 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+
