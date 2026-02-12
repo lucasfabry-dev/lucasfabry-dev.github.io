@@ -440,9 +440,6 @@ footer {
 
 /* Responsive */
 @media (max-width: 768px) {
-    .profile-photo {
-        margin-top: 20px;
-    }
     .profile-photo img {
         width: 120px;
         height: 120px;
@@ -503,6 +500,7 @@ footer {
     transform: translateY(0);
 
 }
+
 
 
 
