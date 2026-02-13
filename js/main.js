@@ -39,12 +39,7 @@ document.querySelectorAll('.fade-in').forEach(el => {
     observer.observe(el);
 });
 
-// Form submission
-function handleSubmit(event) {
-    event.preventDefault();
-    alert('Merci pour votre message ! Je vous répondrai dans les 24h.');
-    event.target.reset();
-}
 
 // Dynamic copyright year
+
 document.querySelector('footer p').innerHTML = `&copy; ${new Date().getFullYear()} Lucas Fabry FIALIARIVONY. Développé avec ❤️ et des compétences en web`;
