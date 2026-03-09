@@ -1,50 +1,50 @@
 # 🌐 Portfolio - Lucas Fabry FIALIARIVONY
 
-Bienvenue sur mon portfolio professionnel développé en HTML, CSS et JavaScript.
+Welcome to my professional portfolio built with HTML, CSS and JavaScript.
 
-🔗 **Site en ligne :**  
+🔗 **Live website:**  
 👉 https://lucasfabry-dev.github.io
 
 ---
 
-## 👨‍💻 À propos
+## 👨‍💻 About
 
-Développeur Web basé à Madagascar, passionné par la création d’interfaces modernes, performantes et adaptées aux besoins réels des utilisateurs.
+Web Developer based in Madagascar, passionate about building modern, performant and user-friendly interfaces.
 
 ---
 
-## 🚀 Technologies utilisées
+## 🚀 Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- FormSubmit (gestion du formulaire de contact)
+- FormSubmit (contact form handling)
 
 ---
 
-## ✨ Fonctionnalités
+## ✨ Features
 
-- ✅ Design responsive (mobile, tablette, desktop)
-- ✅ Formulaire de contact fonctionnel avec envoi d’email
-- ✅ Téléchargement de CV en PDF
-- ✅ Liens vers mes réseaux professionnels
-- ✅ Structure claire et code organisé
+- ✅ Responsive design (mobile, tablet, desktop)
+- ✅ Functional contact form with email delivery
+- ✅ Downloadable CV in PDF format
+- ✅ Links to my professional profiles
+- ✅ Clean structure and organized code
 
 ---
 
 ## 📬 Contact
 
-📧 Email : lucas.fialiarivony@gmail.com  
-🌍 Portfolio : https://lucasfabry-dev.github.io  
-💼 LinkedIn : www.linkedin.com/in/lucas-fialiarivony-a97290153  
-💻 GitHub : https://github.com/lucasfabry-dev
+📧 Email: lucas.fialiarivony@gmail.com  
+🌍 Portfolio: https://lucasfabry-dev.github.io  
+💼 LinkedIn: www.linkedin.com/in/lucas-fialiarivony-a97290153  
+💻 GitHub: https://github.com/lucasfabry-dev
 
 ---
 
-## 📌 Objectif
+## 📌 Purpose
 
-Ce portfolio a pour objectif de présenter mes compétences, mes projets et mon évolution en tant que développeur web.
+This portfolio aims to present my skills, my projects, and my growth as a web developer.
 
 ---
 
-Merci pour votre visite 🙌
+Thank you for visiting 🙌
