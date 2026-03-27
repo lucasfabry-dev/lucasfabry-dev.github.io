@@ -504,4 +504,17 @@ footer {
     transform: translateY(0);
 }
 
+/* Language switch in nav */
+.lang-switch {
+    background: rgba(74, 144, 226, 0.2);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+}
+
+.lang-switch:hover {
+    background: var(--primary);
+    color: white;
+}
+
 
