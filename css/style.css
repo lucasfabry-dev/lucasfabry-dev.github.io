@@ -3,6 +3,30 @@
     margin-bottom: 2rem;
 }
 
+.lang-switch {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: rgba(74, 144, 226, 0.2);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: var(--light);
+    transition: all 0.3s ease;
+}
+
+.lang-switch:hover {
+    background: var(--primary);
+    color: white;
+}
+
+.lang-switch img {
+    width: 20px;
+    height: auto;
+    display: block;
+}
+
 .profile-photo img {
     width: 150px;
     height: 150px;
@@ -441,6 +465,12 @@ footer {
 @media (max-width: 768px) {
     #hero {
         padding-top: 8rem;
+    }
+
+    .lang-switch {
+        justify-content: center;
+        width: 100%;
+        margin-top: 0.5rem;
     }
     
     .profile-photo img {
