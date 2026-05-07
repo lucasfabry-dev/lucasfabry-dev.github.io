@@ -6,11 +6,12 @@
 .lang-switch {
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 8px;              /* Plus d'espace entre drapeau et texte */
     background: rgba(74, 144, 226, 0.2);
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
-    font-size: 0.9rem;
+    padding: 0.5rem 1.2rem;  /* Un peu plus large */
+    border-radius: 25px;    /* Plus arrondi */
+    font-size: 0.95rem;
+    font-weight: 600;
     text-decoration: none;
     color: var(--light);
     transition: all 0.3s ease;
@@ -19,12 +20,14 @@
 .lang-switch:hover {
     background: var(--primary);
     color: white;
+    transform: scale(1.05);
 }
 
 .lang-switch img {
-    width: 20px;
+    width: 22px;          /* Légèrement plus grand */
     height: auto;
     display: block;
+    border-radius: 3px;    /* Si tes PNG sont carrés */
 }
 
 .profile-photo img {
@@ -468,10 +471,11 @@ footer {
     }
 
     .lang-switch {
-        justify-content: center;
-        width: 100%;
-        margin-top: 0.5rem;
-    }
+    justify-content: center;
+    width: 100%;
+    max-width: 150px;
+    margin: 0.5rem auto;   /* Centré dans le menu */
+}
     
     .profile-photo img {
         width: 120px;
