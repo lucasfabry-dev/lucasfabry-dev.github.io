@@ -38,8 +38,3 @@ const observer = new IntersectionObserver((entries) => {
 document.querySelectorAll('.fade-in').forEach(el => {
     observer.observe(el);
 });
-
-
-// Dynamic copyright year
-
-document.querySelector('footer p').innerHTML = `&copy; ${new Date().getFullYear()} Lucas Fabry FIALIARIVONY. Développé avec ❤️ et des compétences en web`;
