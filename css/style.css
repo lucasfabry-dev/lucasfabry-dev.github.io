@@ -173,6 +173,12 @@ section {
     justify-content: center;
 }
 
+.hero-content > p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .cta-buttons {
     display: flex;
     flex-wrap: wrap;
